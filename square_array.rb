@@ -5,9 +5,9 @@ def square_array(array)
       new_array << number ** 2
   end
 new_array
-puts new_array
+
 end
 
 
-numbers = [100,1000,10000]
+numbers = [9,10,16,25]
 square_array(numbers)
