@@ -1,8 +1,8 @@
 def square_array(array)
-
+  new_array = []
   array.each do |number|
       number = number * number  # your code here
-      new_array = [] << number
+      new_array << number
       
 end
 
