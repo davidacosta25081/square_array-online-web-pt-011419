@@ -9,5 +9,5 @@ puts new_array
 end
 
 
-numbers = [1,2,3]
+numbers = [100,1000,10000]
 square_array(numbers)
